@@ -47,7 +47,7 @@ ai-autofill-extension/
 
 1. Clone or Download the Repository:
    ```bash
-   git clone https://github.com/your-username/ai-autofill-assistant.git
+   git clone https://github.com/vigneshsivasubramaniyan/autofill.git
    ```
 2. Open Google Chrome and navigate to:
    ```text
