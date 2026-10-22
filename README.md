@@ -21,6 +21,10 @@ It handles standard inputs, open-ended behavioral questions, dropdown menus (`<s
 - **In-Page Floating Action Button**: Trigger autofill directly from the web page via a persistent floating action pill without reopening the extension popup.
 
 ---
+## 📺 Demo Video
+
+<video src="./AutoFill-Demo.mp4" width="100%" controls muted></video>
+---
 
 ## 📁 Project Structure
 
