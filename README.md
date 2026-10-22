@@ -23,7 +23,8 @@ It handles standard inputs, open-ended behavioral questions, dropdown menus (`<s
 ---
 ## 📺 Demo Video
 
-<video src="./AutoFill-Demo.mp4" width="100%" controls muted></video>
+<video src="https://raw.githubusercontent.com/vigneshsivasubramaniyan/autofill/main/AutoFill-Demo.mp4" controls="controls" muted="muted" style="max-width: 100%;">
+</video>
 ---
 
 ## 📁 Project Structure
